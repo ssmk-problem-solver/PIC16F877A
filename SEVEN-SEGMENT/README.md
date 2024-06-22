@@ -1,0 +1,5 @@
+# SEVEN SEGMENT DISPALY INTERFACING:
+
+# CHECK FOR COMMON CATHODE OR ANODE TYPE:
+
+![image](https://github.com/ssmk-problem-solver/PIC16F877A/assets/172963811/e94b4ae5-70a2-4307-bc31-df71f44b6f58)
